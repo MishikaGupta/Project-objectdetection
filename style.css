@@ -1,0 +1,14 @@
+
+button {
+border-radius: 20px;
+width: 60%;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+a {
+    width: 60%;
+}
